@@ -1,0 +1,13 @@
+PS C:\Users\KONGA\Documents\datafun-05-data-at-rest> & C:/Users/KONGA/AppData/Local/Programs/Python/Python311/python.exe c:/Users
+/KONGA/Documents/datafun-05-data-at-rest/dividebyzero.py
+Enter numerator: 6578
+Enter Denominator:0
+Attempted to divide by zeroo,change denominator
+
+Enter numerator: 34566
+Enter Denominator:hi
+you must enter two integers
+
+Enter numerator: 2457
+Enter Denominator:54
+2457.000/54.000 = 45.500
